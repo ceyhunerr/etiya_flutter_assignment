@@ -1,0 +1,36 @@
+name: etiya_flutter_assignment
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  grpc: ^3.2.4
+  get_it: ^7.6.7
+  protobuf: ^3.1.0
+  equatable: ^2.0.5
+  cupertino_icons: ^1.0.2
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  card_button:
+    path: packages/card_button
+  land_calculation:
+    path: packages/land_calculation
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+

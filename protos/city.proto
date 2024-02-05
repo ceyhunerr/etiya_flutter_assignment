@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package city;
+
+service CityService {
+  rpc GetCities (Empty) returns (CityList) {}
+}
+
+message Empty {}
+
+message City {
+  string name = 1;
+  double latitude = 2;
+  double longitude = 3;
+  double land_price = 4;
+}
+
+message CityList {
+  repeated City cities = 1;
+}
