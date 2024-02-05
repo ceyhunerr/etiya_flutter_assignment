@@ -32,4 +32,4 @@ Arazinizin bulunduğu şehri seçtikten sonra, açılan haritada arazinizi dokun
 Araziyi çizdikten sonra, arazinin m2 fiyatını ve toplam fiyatını görebilirsiniz.
 
 * Demo: [Arazi Ölçümü ve Fiyat Hesaplama Uygulaması]
-(https://www.youtube.com/watch?v=3zvz3v3zv3zv)
+((https://github.com/ceyhunerr/etiya_flutter_assignment/blob/main/demo.mp4))
