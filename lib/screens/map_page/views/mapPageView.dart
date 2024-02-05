@@ -40,8 +40,7 @@ class MapPageView extends StatelessWidget {
               initialCenter: LatLng(city.latitude, city.longitude),
               initialZoom: 12.0,
               onTap: (possition, point) {
-                GetIt.I.get<MapCubit>().addPolygonAndMarker(point,MapWidget().marker(point));
-                //BlocProvider.of<MapCubit>(context).addPolygonAndMarker(point,MapWidget().marker(point));
+                BlocProvider.of<MapCubit>(context).addPolygonAndMarker(point,MapWidget().marker(point));
 
 
               }
