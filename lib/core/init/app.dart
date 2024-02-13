@@ -1,7 +1,7 @@
 
-import 'package:etiya_flutter_assignment/core/init/app_dependencies.dart';
-import 'package:etiya_flutter_assignment/core/init/app_routes.dart';
-import 'package:etiya_flutter_assignment/core/init/app_theme.dart';
+import 'package:land_measurement/core/init/app_dependencies.dart';
+import 'package:land_measurement/core/init/app_routes.dart';
+import 'package:land_measurement/core/init/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {

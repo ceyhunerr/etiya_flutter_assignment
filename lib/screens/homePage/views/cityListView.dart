@@ -1,9 +1,9 @@
 import 'package:card_button/card_button.dart';
-import 'package:etiya_flutter_assignment/product/constants/app_colors.dart';
-import 'package:etiya_flutter_assignment/product/constants/styles.dart';
-import 'package:etiya_flutter_assignment/screens/map_page/select_land.dart';
-import 'package:etiya_flutter_assignment/screens/map_page/view_model/mapCubit.dart';
-import 'package:etiya_flutter_assignment/src/generated/city.pb.dart';
+import 'package:land_measurement/product/constants/app_colors.dart';
+import 'package:land_measurement/product/constants/styles.dart';
+import 'package:land_measurement/screens/map_page/select_land.dart';
+import 'package:land_measurement/screens/map_page/view_model/mapCubit.dart';
+import 'package:land_measurement/src/generated/city.pb.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:latlong2/latlong.dart';

@@ -1,5 +1,5 @@
-import 'package:etiya_flutter_assignment/screens/homePage/viewModel/cityCubit.dart';
-import 'package:etiya_flutter_assignment/screens/map_page/view_model/mapCubit.dart';
+import 'package:land_measurement/screens/homePage/viewModel/cityCubit.dart';
+import 'package:land_measurement/screens/map_page/view_model/mapCubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

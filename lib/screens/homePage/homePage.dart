@@ -1,10 +1,10 @@
-import 'package:etiya_flutter_assignment/core/init/locator.dart';
-import 'package:etiya_flutter_assignment/product/constants/app_colors.dart';
-import 'package:etiya_flutter_assignment/product/widgets/appBars.dart';
-import 'package:etiya_flutter_assignment/screens/homePage/viewModel/cityCubit.dart';
-import 'package:etiya_flutter_assignment/screens/homePage/viewModel/cityState.dart';
-import 'package:etiya_flutter_assignment/screens/homePage/views/cityListView.dart';
-import 'package:etiya_flutter_assignment/src/generated/city.pb.dart';
+import 'package:land_measurement/core/init/locator.dart';
+import 'package:land_measurement/product/constants/app_colors.dart';
+import 'package:land_measurement/product/widgets/appBars.dart';
+import 'package:land_measurement/screens/homePage/viewModel/cityCubit.dart';
+import 'package:land_measurement/screens/homePage/viewModel/cityState.dart';
+import 'package:land_measurement/screens/homePage/views/cityListView.dart';
+import 'package:land_measurement/src/generated/city.pb.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';

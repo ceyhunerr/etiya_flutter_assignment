@@ -33,6 +33,6 @@ Araziyi çizdikten sonra, arazinin m2 fiyatını ve toplam fiyatını görebilir
 * Demo: [Arazi Ölçümü ve Fiyat Hesaplama Uygulaması]
 
 
-https://github.com/ceyhunerr/etiya_flutter_assignment/assets/44140081/2ad7fac8-c85a-4bd0-b468-7328cb11e7ad
+https://github.com/ceyhunerr/land_measurement/assets/44140081/2ad7fac8-c85a-4bd0-b468-7328cb11e7ad
 
 

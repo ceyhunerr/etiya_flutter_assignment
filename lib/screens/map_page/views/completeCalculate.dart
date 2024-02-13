@@ -1,9 +1,9 @@
-import 'package:etiya_flutter_assignment/core/extension/utilities.dart';
-import 'package:etiya_flutter_assignment/product/constants/app_colors.dart';
-import 'package:etiya_flutter_assignment/product/constants/styles.dart';
-import 'package:etiya_flutter_assignment/product/widgets/appBars.dart';
-import 'package:etiya_flutter_assignment/product/widgets/buttons.dart';
-import 'package:etiya_flutter_assignment/src/generated/city.pb.dart';
+import 'package:land_measurement/core/extension/utilities.dart';
+import 'package:land_measurement/product/constants/app_colors.dart';
+import 'package:land_measurement/product/constants/styles.dart';
+import 'package:land_measurement/product/widgets/appBars.dart';
+import 'package:land_measurement/product/widgets/buttons.dart';
+import 'package:land_measurement/src/generated/city.pb.dart';
 import 'package:flutter/material.dart';
 
 class CompleteCalculate extends StatelessWidget {

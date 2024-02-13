@@ -1,6 +1,6 @@
-import 'package:etiya_flutter_assignment/product/widgets/map_widgets.dart';
-import 'package:etiya_flutter_assignment/screens/map_page/view_model/mapState.dart';
-import 'package:etiya_flutter_assignment/src/generated/city.pb.dart';
+import 'package:land_measurement/product/widgets/map_widgets.dart';
+import 'package:land_measurement/screens/map_page/view_model/mapState.dart';
+import 'package:land_measurement/src/generated/city.pb.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';

@@ -1,8 +1,8 @@
 
 
-import 'package:etiya_flutter_assignment/core/init/locator.dart';
-import 'package:etiya_flutter_assignment/core/services/city_client.dart';
-import 'package:etiya_flutter_assignment/src/generated/city.pbgrpc.dart';
+import 'package:land_measurement/core/init/locator.dart';
+import 'package:land_measurement/core/services/city_client.dart';
+import 'package:land_measurement/src/generated/city.pbgrpc.dart';
 
 class CityRepository {
 

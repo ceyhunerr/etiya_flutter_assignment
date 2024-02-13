@@ -1,4 +1,4 @@
-import 'package:etiya_flutter_assignment/src/generated/city.pb.dart';
+import 'package:land_measurement/src/generated/city.pb.dart';
 import 'package:flutter_map/flutter_map.dart';
 
 abstract class MapState {

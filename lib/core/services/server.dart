@@ -1,6 +1,6 @@
 
-import 'package:etiya_flutter_assignment/product/constants/base.dart';
-import 'package:etiya_flutter_assignment/src/generated/city.pbgrpc.dart';
+import 'package:land_measurement/product/constants/base.dart';
+import 'package:land_measurement/src/generated/city.pbgrpc.dart';
 import 'package:grpc/grpc.dart';
 
 class CityService extends CityServiceBase {

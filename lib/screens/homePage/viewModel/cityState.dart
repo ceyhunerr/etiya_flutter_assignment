@@ -1,6 +1,6 @@
 
 
-import 'package:etiya_flutter_assignment/src/generated/city.pb.dart';
+import 'package:land_measurement/src/generated/city.pb.dart';
 
 abstract class CityState {
   const CityState();

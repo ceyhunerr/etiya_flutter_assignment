@@ -1,6 +1,6 @@
-import 'package:etiya_flutter_assignment/core/repo/city_repository.dart';
-import 'package:etiya_flutter_assignment/screens/homePage/viewModel/cityState.dart';
-import 'package:etiya_flutter_assignment/src/generated/city.pb.dart';
+import 'package:land_measurement/core/repo/city_repository.dart';
+import 'package:land_measurement/screens/homePage/viewModel/cityState.dart';
+import 'package:land_measurement/src/generated/city.pb.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class CityCubit extends Cubit<CityState> {

@@ -1,4 +1,4 @@
-import 'package:etiya_flutter_assignment/product/constants/app_colors.dart';
+import 'package:land_measurement/product/constants/app_colors.dart';
 import 'package:flutter/material.dart';
 
 
