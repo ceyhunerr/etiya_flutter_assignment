@@ -1,4 +1,3 @@
-<h1 align=center>Merhaba, Ben Ceyhun ER</h1> 
 
 <h2 align=center>Arazi Ölçüm ve Fiyat Hesaplama Uygulaması</h2>
 
